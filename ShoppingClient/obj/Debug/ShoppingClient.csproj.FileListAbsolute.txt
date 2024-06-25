@@ -1,0 +1,9 @@
+C:\Users\nimro\source\repos\ShoppingClient\bin\Debug\ShoppingClient.exe.config
+C:\Users\nimro\source\repos\ShoppingClient\bin\Debug\ShoppingClient.exe
+C:\Users\nimro\source\repos\ShoppingClient\bin\Debug\ShoppingClient.pdb
+C:\Users\nimro\source\repos\ShoppingClient\obj\Debug\ShoppingClient.csproj.AssemblyReference.cache
+C:\Users\nimro\source\repos\ShoppingClient\obj\Debug\ShoppingClient.Properties.Resources.resources
+C:\Users\nimro\source\repos\ShoppingClient\obj\Debug\ShoppingClient.csproj.GenerateResource.cache
+C:\Users\nimro\source\repos\ShoppingClient\obj\Debug\ShoppingClient.csproj.CoreCompileInputs.cache
+C:\Users\nimro\source\repos\ShoppingClient\obj\Debug\ShoppingClient.exe
+C:\Users\nimro\source\repos\ShoppingClient\obj\Debug\ShoppingClient.pdb

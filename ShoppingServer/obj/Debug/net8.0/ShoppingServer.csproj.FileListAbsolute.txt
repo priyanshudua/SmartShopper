@@ -1,0 +1,14 @@
+C:\Users\nimro\source\repos\ShoppingServer\bin\Debug\net8.0\ShoppingServer.exe
+C:\Users\nimro\source\repos\ShoppingServer\bin\Debug\net8.0\ShoppingServer.deps.json
+C:\Users\nimro\source\repos\ShoppingServer\bin\Debug\net8.0\ShoppingServer.runtimeconfig.json
+C:\Users\nimro\source\repos\ShoppingServer\bin\Debug\net8.0\ShoppingServer.dll
+C:\Users\nimro\source\repos\ShoppingServer\bin\Debug\net8.0\ShoppingServer.pdb
+C:\Users\nimro\source\repos\ShoppingServer\obj\Debug\net8.0\ShoppingServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nimro\source\repos\ShoppingServer\obj\Debug\net8.0\ShoppingServer.AssemblyInfoInputs.cache
+C:\Users\nimro\source\repos\ShoppingServer\obj\Debug\net8.0\ShoppingServer.AssemblyInfo.cs
+C:\Users\nimro\source\repos\ShoppingServer\obj\Debug\net8.0\ShoppingServer.csproj.CoreCompileInputs.cache
+C:\Users\nimro\source\repos\ShoppingServer\obj\Debug\net8.0\ShoppingServer.dll
+C:\Users\nimro\source\repos\ShoppingServer\obj\Debug\net8.0\refint\ShoppingServer.dll
+C:\Users\nimro\source\repos\ShoppingServer\obj\Debug\net8.0\ShoppingServer.pdb
+C:\Users\nimro\source\repos\ShoppingServer\obj\Debug\net8.0\ShoppingServer.genruntimeconfig.cache
+C:\Users\nimro\source\repos\ShoppingServer\obj\Debug\net8.0\ref\ShoppingServer.dll
